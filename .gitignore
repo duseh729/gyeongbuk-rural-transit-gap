@@ -1,0 +1,5 @@
+data/
+.venv/
+.env
+out/*.gpkg
+__pycache__/
